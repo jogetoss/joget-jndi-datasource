@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+Sample implementation of DynamicDataSource to obtain datasource through JNDI.
 
 # Getting Help
 
